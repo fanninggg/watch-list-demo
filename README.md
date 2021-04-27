@@ -1,1 +1,1 @@
-Basic demo of watch list challeneeg with reviews. No styling.
+Basic demo of watch list challenege with reviews. No styling.
